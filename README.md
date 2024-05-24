@@ -2,8 +2,7 @@
 
 Pleaae create .env file on your project root and replace it with 
 
-`
-# DB Details
+`# DB Details
 host=
 user=
 password=
@@ -14,8 +13,7 @@ twitter_user=
 twitter_email= 
 twitter_pass=
 cache_path=
-browser_port=9222
-`
+browser_port=9222`
 
 
 You have to excute below command to open the chrome browser it will open the browser and you will be auto loggedIn inside the Twitter.
